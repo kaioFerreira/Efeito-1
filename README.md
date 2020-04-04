@@ -3,4 +3,4 @@ Efeito Maquina Digitação
 
 *Usando apenas JavaScript*
 
-### Veja o resultado você mesmo, [Link](https://kaioferreira.github.io/Efeito-1/).
+#### Resultado [Link](https://kaioferreira.github.io/Efeito-1/).
