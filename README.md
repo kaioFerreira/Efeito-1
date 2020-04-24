@@ -1,6 +1,5 @@
-# Efeito 1
-Efeito Maquina Digitação
+# Efeito Maquina Digitação
 
 *Usando apenas JavaScript*
 
-#### Resultado [Link](https://kaioferreira.github.io/Efeito-1/).
+#### Resultado [Link](https://kaioferreira.github.io/Efeito-Maquina-Digitacao-JS/).
